@@ -6,4 +6,3 @@ Airline companies can leverage this database to store and manage details about s
 
 The key learning outcomes from this project included database design, entity-relationship diagrams, integrity constraints, normalization, and the development of a command-line interface (CLI) to interact with the system.
 
-The project's database management system is known as Nimbus.
